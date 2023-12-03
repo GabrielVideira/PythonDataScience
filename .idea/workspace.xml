@@ -4,7 +4,38 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c3d5f86-d379-468a-b5ab-0e73116aadbb" name="Changes" comment="" />
+    <list default="true" id="9c3d5f86-d379-468a-b5ab-0e73116aadbb" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Aprofundando Pandas/Aprofundando_Pandas.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aprofundando Pandas/BaseDados/aluguel.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aprofundando Pandas/BaseDados/aluguel.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aprofundando Pandas/BaseDados/aluguel.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aprofundando Pandas/BaseDados/aluguel.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aprofundando Pandas/BaseDados/dados_html_1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aprofundando Pandas/BaseDados/dados_html_2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Estatística/Base de Dados/Consumo_cerveja.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Estatística/Base de Dados/HousePrices_HalfMil.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Estatística/Base de Dados/dados.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Estatística/Base de Dados/dataset.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Estatística/Base de Dados/tmdb_5000_movies.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Estatística/Curso_de_Estatística_Parte_1.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Estatística/Curso_de_Estatística_Parte_2.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Estatística/Exercicio_Análise_Descritiva.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Estatística/Exercicio_Estimativas_Exercicio.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Estatística/Exercicio_Regressao_Linear.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Estatística/Regressão_Linear.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Estatística/Regressão_Linear_II.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Estatística/Testes_Estatísticos.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introdução a Data Science/BaseDados/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introdução a Data Science/BaseDados/links.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introdução a Data Science/BaseDados/movies.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introdução a Data Science/BaseDados/ratings.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introdução a Data Science/BaseDados/tags.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introdução a Data Science/BaseDados/tmdb_5000_movies.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introdução a Data Science/Introducao_a_Data_Science.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Visualização de Dados/Base de Dados/iris.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Visualização de Dados/Base de Dados/monitoramento_tempo.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Visualização de Dados/Visualizacao_de_Dados.ipynb" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
